@@ -112,6 +112,11 @@
   - [Transformer 论文精读](./PaperNotes/Transformer%20论文精读.md)
     - 从零开始复现 Transformer（PyTorch），并对各组件进行解读。
     - [Code](./PaperNotes/Demos/动手实现%20Transformer.ipynb) | [Kaggle](https://www.kaggle.com/code/aidemos/transformer) | [Colab](https://colab.research.google.com/drive/1BtYPNjEHw3dudw5KKFe9dBEsUsgkm1Vt?usp=sharing)
+  - [BERT 论文精读](./PaperNotes/BERT%20论文精读.md)
+    - 预训练任务 MLM 和 NSP
+    - BERT 模型的输入和输出，以及一些与 Transformer 不同的地方
+    - 以 $\text{BERT}_\text{BASE}$ 为例，计算模型的总参数量
+    - [作业 - BERT 微调抽取式问答](../Guide/22.%20作业%20-%20Bert%20微调抽取式问答.md)
 
 - [**CodePlayground**](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN/tree/master/CodePlayground)
 
